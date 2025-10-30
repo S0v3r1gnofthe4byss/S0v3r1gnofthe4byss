@@ -20,7 +20,7 @@
 
 <img width="736" height="414" alt="bpcbanner2" src="https://github.com/user-attachments/assets/2ca07e3c-09d8-4557-9d87-05437bd4081f" />
 
-🐚‧₊˚✩彡𓇼༄ check out my carrd and strawpage for more , or my main githubs @S0LPR1NC3SS + @fadedradianc3 ! 🐚‧₊˚✩彡𓇼༄
+🐚‧₊˚✩彡𓇼༄ check out my carrd and strawpage for more , or my main github @fadedradianc3 ! 🐚‧₊˚✩彡𓇼༄
 
 <img width="736" height="357" alt="bpcbanner3" src="https://github.com/user-attachments/assets/a5991b19-cc16-484c-9d76-d212384394f5" />
 
