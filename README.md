@@ -2,4 +2,5 @@
 <br><p align="center"><img width="1280"  src="https://github.com/user-attachments/assets/a51c650b-6c51-4473-947b-607fc8130173" />
 <br><p align="center"><img width="1000"   src="https://github.com/user-attachments/assets/2f9ec76c-103e-4582-bb21-83913c845fe5" />
 <br><p align="center"><img width="1000"  src="https://github.com/user-attachments/assets/6bd3f433-eede-4cb5-87ac-2013d29c951f" />
+<br><p align="center"><br>${\textsf{\color{#012D2D}Graphic creds:}}$ ${\textsf{\color{#03a0a0}@astrivion on tumblr}}$
 
